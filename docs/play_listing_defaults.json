@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.rouillon_isabelle": {
+      "title": "ROUILLON ISABELLE",
+      "short_description": "Track shipments, containers, leads, and visitors in one local workspace.",
+      "full_description": "ROUILLON ISABELLE helps small operations teams keep daily business movement organized without accounts or cloud sync. The app brings shipment logs, container references, lead follow-ups, and visitor entries into a focused Android workspace.\n\nCreate local records, set statuses, add owners or contacts, and open detail pages for the next action. A dashboard summarizes active work so teams can review what needs attention before a shipment, sales contact, or visitor arrival.\n\nAll records stay on the device, making the app suitable for practical daily coordination where speed and privacy matter.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:28:01.827978+00:00"
+    }
+  }
+}
