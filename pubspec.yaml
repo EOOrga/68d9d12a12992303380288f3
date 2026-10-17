@@ -1,4 +1,4 @@
-name: rouillon_isabelle
+name: rouillon_isabells
 description: "Local operations workspace for ROUILLON ISABELLE."
 publish_to: 'none'
 version: 1.0.0+1
@@ -20,8 +20,8 @@ flutter_launcher_icons:
   android: true
   ios: false
   image_path: "docs/icon.png"
-  adaptive_icon_background: "#F6FAFB"
-  adaptive_icon_foreground: "docs/icon.png"
+  adaptive_icon_background: "#8BC34A"
+  adaptive_icon_foreground: docs/icon.png
 
 flutter:
   uses-material-design: true
