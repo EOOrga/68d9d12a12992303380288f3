@@ -418,7 +418,7 @@ class _OperationsHomeState extends State<OperationsHome> {
         onCreate: _createRecord,
       ),
       TypedRecordsScreen(
-        title: 'Shipment Log',
+        title: 'ROUILLON ISABELLE',
         subtitle: 'Containers, delivery references, and transport follow-up.',
         type: RecordType.shipment,
         records: _records,
