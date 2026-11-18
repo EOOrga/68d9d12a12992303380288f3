@@ -1,0 +1,5 @@
+ROUILLON ISABELLE helps small operations teams keep daily business movement organized without accounts or cloud sync. The app brings shipment logs, container references, lead follow-ups, and visitor entries into a focused Android workspace.
+
+Create local records, set statuses, add owners or contacts, and open detail pages for the next action. A dashboard summarizes active work so teams can review what needs attention before a shipment, sales contact, or visitor arrival.
+
+All records stay on the device, making the app suitable for practical daily coordination where speed and privacy matter.
